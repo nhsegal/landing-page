@@ -99,20 +99,29 @@ button {
 .third {
     background-color: #E5E7EB;
     color: #1F2937;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
+    text-align: left;
     height: 300px; 
+    padding-left:350px; 
+    padding-right: 350px;
 }
 
-.third .quotation{
+
+.third .quotation {
     font-weight: 100;
     font-style: italic;
     font-size: 24px;
-    margin: auto;
-    width: 600px;
+    padding-top: 100px;
+    margin-bottom: none;
 }
 
+.third .author {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+    margin-top: none;
+    margin-bottom: auto;
+    padding-right: 80px;
+}
 
 footer {
     background-color: #1F2937;
