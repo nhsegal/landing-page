@@ -123,12 +123,33 @@ button {
     padding-right: 80px;
 }
 
+.fourth {
+    background-color: #3882F6;
+    margin: 80px;
+    padding: 80px;
+    color:#E5E7EB;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:flex-start;
+}
+
+.fourth strong, button{
+    color: #F9FAF8; 
+    font-size: 18px;
+}  
+
+.fourth button{
+    border: solid white;
+    flex: none;
+    margin-top: 0px;
+}
 footer {
     background-color: #1F2937;
     color: #E5E7EB;
     font-size: 18px;
     padding: 16px 64px;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+    text-align: center;
+    
 }
