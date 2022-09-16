@@ -1,2 +1,4 @@
 # landing-page
-Odin Project Landing Page Assignment (Foundations Course)
+Written for The Odin Project's [Landing Page assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
+
+[Live link](https://nhsegal.github.io/landing-page/)
